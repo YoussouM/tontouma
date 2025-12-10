@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+alembic
+asyncpg
+pgvector
+pydantic-settings
+python-dotenv
+python-multipart
+openai
+numpy
+scipy
+minio
+pypdf
